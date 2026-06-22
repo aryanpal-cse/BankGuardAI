@@ -1,0 +1,11 @@
+transaction_id,customer_id,amount,transaction_type,location,time,is_fraud
+T001,C001,500,UPI,Noida,10:30,0
+T002,C001,95000,Transfer,Delhi,02:15,1
+T003,C002,1200,ATM,Mumbai,14:20,0
+T004,C003,75000,Online,Unknown,03:40,1
+T005,C002,300,UPI,Noida,18:10,0
+T006,C004,15000,UPI,Noida,13:30,0
+T007,C005,120000,Transfer,Unknown,01:10,1
+T008,C006,800,ATM,Greater Noida,11:45,0
+T009,C007,45000,Online,Delhi,04:20,1
+T010,C008,2500,UPI,Noida,19:00,0
